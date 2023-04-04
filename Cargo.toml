@@ -1,9 +1,9 @@
 [package]
-name = "termsize"
+name = "termsize-alt"
 version = "0.2.0"
 authors = ["softprops <d.tangren@gmail.com>"]
 description = "Retrieves terminal size"
-repository = "https://github.com/softprops/termsize"
+repository = "https://github.com/zhongdongy/termsize-alt"
 homepage = "https://github.com/softprops/termsize"
 documentation = "http://softprops.github.io/termsize"
 keywords = ["tty", "terminal", "term", "size", "dimensions"]
